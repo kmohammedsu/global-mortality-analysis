@@ -19,3 +19,6 @@ env/
 .venv/
 venv/
 .env/
+
+# Ignore final encoded dataset
+final_encoded_dataset.csv
