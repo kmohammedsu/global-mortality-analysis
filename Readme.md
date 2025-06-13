@@ -75,8 +75,8 @@ This project explores global mortality patterns using country-level data on heal
    `pip install -r requirements.txt`
 
 3. **Run Jupyter notebooks in order**:
-   - `Data Preprocesing/02_data_preprocessing.ipynb`
    - `Notebooks/01_eda.ipynb`
+   - `Data Preprocesing/02_data_preprocessing.ipynb`
    - `Notebooks/03_Unsupervised Learning.ipynb`
    - `Notebooks/04_Decision_Trees.ipynb`
    - `Notebooks/05_SVR.ipynb`
